@@ -55,5 +55,5 @@ Commercial source code is not published here.
 ## Find out more
 
 🌐 **[Engineering Portfolio](https://lokchanart.com/engineering/portfolio)** — selected case studies and production engineering work
-🧪 **[Engineering Lab](https://lokchanart.com/engineering)** — experiments, tools, and independent engineering projects
+🧪 **[Engineering Lab]([https://lokchanart.com/engineering](https://lokchanart.com/engineering-lab/overview)** — experiments, tools, and independent engineering projects
 💼 **[LinkedIn](https://www.linkedin.com/in/tkhiien-lok-chan-jsdeveloper)**
