@@ -43,7 +43,7 @@ My professional work has included:
 * designing and maintaining **GraphQL and REST integrations**;
 * designing **Playwright E2E architecture and CI/CD workflows** across multiple markets and environments;
 * full-stack architecture for a **multi-tenant restaurant SaaS platform** using React, TypeScript, Django, PostgreSQL/PostGIS, payments, geospatial delivery, and external services;
-* React/Ionic application development and **iOS application packaging and integration**;
+* developing a **cross-platform mobile application with React and Ionic**, including iOS builds and configuration with Xcode, Android builds, and platform integration for **Apple and Google services**;
 * production debugging, architecture decisions, code review, and developer support.
 
 Commercial source code is not published here.
